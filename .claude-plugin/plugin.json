@@ -1,0 +1,18 @@
+{
+  "name": "logseq-claude-plugin",
+  "version": "1.0.0",
+  "description": "Claude Code plugin for Logseq knowledge management and plugin development. Provides skills for PKM workflows, graph queries, block manipulation, and @logseq/libs API development.",
+  "author": {
+    "name": "Brian Sunter"
+  },
+  "license": "MIT",
+  "keywords": [
+    "logseq",
+    "pkm",
+    "knowledge-management",
+    "outliner",
+    "graph-db",
+    "plugin-development",
+    "datascript"
+  ]
+}
